@@ -5,7 +5,7 @@
 
 **📱 The Stack:** Jetpack Compose and taking a peek into Swift.
 
-**💻 The Mission:** Developing macOS applications born out of necessity. I’m tired of "mystery meat" software hidden behind paywalls without a trial, so I’m building my own.
+**💻 The Mission:** Developing applications born out of necessity. I’m tired of "mystery meat" software hidden behind paywalls without a trial, so I’m building my own.
 
 **🧠 Perspective:** Bringing a decade of logic and a lot of "back in my day" patience to modern declarative programming.
 
