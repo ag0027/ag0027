@@ -1,12 +1,12 @@
-## REBOOTING... // 04:00 AM MODE
+REBOOTING... // STATION_ORIGIN: PENAMPANG, SABAH
 
-### THE SYSTEM UPGRADE
-Returning to the craft at 40 with a focus on architectural utility over aesthetic fluff. I’m not here to design—I’m here to build high-performance tools that solve real problems. I’m spending my "Level 40" era refining the software I actually use, born from a decade of foundational logic.
+### THE WORKBENCH
+Returning to code at 40 with a focus on functional utility. I’m a builder who values tools that work as intended. I’m spending this era building the software I actually want to use—prioritizing stable logic over aesthetic trends.
 
-📱 CURRENT_MODS: Hard-coding in Jetpack Compose and exploring the native limits of Swift.
+📱 THE STACK: Deep-diving into Jetpack Compose and exploring Swift.
 
-💻 THE MISSION: Engineering applications born out of bespoke necessity. I’m replacing opaque, subscription-locked software with transparent tools that fit my specific workflow. If the right tool doesn't exist on the market, I build it myself.
+💻 THE MISSION: Developing applications born out of bespoke necessity. I’m focused on creating high-integrity tools that align with my own workflow, providing a refined alternative to the restrictive software models currently on the market. If a tool doesn’t fit my process, I build one that does.
 
-🧠 PERSPECTIVE: Bringing ten years of core logic and a "systems-first" mindset to modern declarative programming. I value stability and functional clarity above all else.
+🧠 PERSPECTIVE: Bridging a systems-first mindset with modern declarative programming. I value clarity, stability, and the quiet focus of a late-night build.
 
-🧗 PHILOSOPHY: You’re never too old to master a new framework—and I’m definitely not too old to pull an all-nighter until the logic is flawless.
+🧗 PHILOSOPHY: You’re never too old to learn a new framework—and I’ve still got the stamina to stay up until the logic is flawless.
