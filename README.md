@@ -1,12 +1,12 @@
-## Hi there 👋
+## REBOOTING... // 04:00 AM MODE
 
-### Returning to code at 40...
-*Focusing on logic over "eye-candy." I’m not a designer—I’m a builder who uses modern tools to solve practical problems. I’m spending my "Level 40" era building the tools I actually want to use.*
+### THE SYSTEM UPGRADE
+Returning to the craft at 40 with a focus on architectural utility over aesthetic fluff. I’m not here to design—I’m here to build high-performance tools that solve real problems. I’m spending my "Level 40" era refining the software I actually use, born from a decade of foundational logic.
 
-**📱 The Stack:** Jetpack Compose and taking a peek into Swift.
+📱 CURRENT_MODS: Hard-coding in Jetpack Compose and exploring the native limits of Swift.
 
-**💻 The Mission:** Developing applications born out of necessity. I’m tired of "mystery meat" software hidden behind paywalls without a trial, so I’m building my own.
+💻 THE MISSION: Engineering applications born out of bespoke necessity. I’m replacing opaque, subscription-locked software with transparent tools that fit my specific workflow. If the right tool doesn't exist on the market, I build it myself.
 
-**🧠 Perspective:** Bringing a decade of logic and a lot of "back in my day" patience to modern declarative programming.
+🧠 PERSPECTIVE: Bringing ten years of core logic and a "systems-first" mindset to modern declarative programming. I value stability and functional clarity above all else.
 
-**🧗 Philosophy:** You’re never too old to learn a new framework—just maybe too old to stay up until 3 AM debugging it.
+🧗 PHILOSOPHY: You’re never too old to master a new framework—and I’m definitely not too old to pull an all-nighter until the logic is flawless.
